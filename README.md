@@ -24,5 +24,3 @@ Enjoy your ShakoCam! Final product should look like this: <img width="675" heigh
 <img width="724" height="647" alt="CAD V1 Back Tilt" src="https://github.com/user-attachments/assets/de411ea3-64dc-4b22-a7d2-fd53d266e7e3" />
 <img width="849" height="565" alt="CAD V1 Front Tilt" src="https://github.com/user-attachments/assets/e73abefb-8365-4eac-8c0d-091d50a74a5b" />
 
-*add cool screenshots*
-
